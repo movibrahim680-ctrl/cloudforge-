@@ -1,0 +1,6 @@
+{
+  "name": "CloudForge",
+  "description": "CloudForge - Deploy. Scale. Ship. Commercial Cloud Deployment Platform for Node.js, Docker, Python & Static apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
